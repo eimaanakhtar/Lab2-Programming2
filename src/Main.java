@@ -140,4 +140,13 @@ public class Main {
         }
         return count;
     }
+
+    /*
+    // ============ PART G=========== //
+    1.An array because we need exactly 30 computer stations.
+    2.An arraylist since we have to remove or add members to the club.
+    3.Arraylist since we don't know the amount of students.
+    4.Array since there's a fixed amount of days in a week (7).
+    5.Arraylist because we could change the amount of students enrolled for the next semester.
+     */
 }
